@@ -1,0 +1,228 @@
+2018-01-20 16:55:35 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-20 16:55:38 INFO  HomePage:30 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (0176e0010349465468d2c9be0baa4071)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-20 16:56:35 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-20 16:56:38 INFO  HomePage:30 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (de9c17a33033cf5e86d7a097fda36445)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-20 16:56:39 INFO  HomePage:32 -Clicked on askLifestages and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[1]/div/div/div[1]/div/a/h3'
+2018-01-20 16:57:28 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-20 16:57:30 INFO  HomePage:30 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (431a71cb79fb9498e50ef5263a50fe0a)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-20 17:12:24 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-20 17:12:26 INFO  HomePage:30 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (44d6e1c18f92931640acf8f5d5f9c282)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-20 17:13:17 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-20 17:13:20 INFO  HomePage:30 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (3b899684b63e465737280a21e8afe1c8)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-20 17:17:26 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-20 17:17:30 INFO  HomePage:30 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (e0eef0ff60f0706a731a302b92ebf1f8)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-20 17:18:31 INFO  HomePage:32 -Clicked on askLifestages and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[1]/div/div/div[1]/div/a/h3'
+2018-01-20 17:19:50 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-20 17:19:53 INFO  HomePage:30 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (c46da572cdf41e3e96875bef0f122d52)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-20 17:25:06 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-20 17:25:08 INFO  HomePage:30 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (577b0393f71908cd829662c47be93503)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-20 17:26:09 INFO  HomePage:32 -Clicked on askLifestages and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[1]/div/div/div[1]/div/a/h3'
+2018-01-20 17:27:21 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-20 17:27:24 INFO  HomePage:31 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (6357b7d8c8ee16d1916ab6e61532021d)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-20 17:28:11 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-20 17:28:13 INFO  HomePage:31 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (943592341321e1cd7f8ba90dd401ffec)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-20 17:29:13 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-20 17:29:15 INFO  HomePage:31 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (41aee04dc6cdff2cd63771eec05e7fed)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-20 17:30:16 INFO  HomePage:33 -Clicked on askLifestages and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[1]/div/div/div[1]/div/a/h3'
+2018-01-20 17:30:20 INFO  TestBase:24 -============Finished Question and Answers forum================
+2018-01-20 17:32:02 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-20 17:32:04 INFO  HomePage:31 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (ea770796a1ee91a2ccaa27070f3f4e4f)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-20 17:32:46 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-20 17:32:49 INFO  HomePage:31 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (1b19e4e5723d8eb7b27cfe9663324595)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-20 17:34:08 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-20 17:34:11 INFO  HomePage:31 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (0d0f0891dafdc9518fbfafad014f45ba)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-21 19:37:25 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-21 19:41:31 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 10:50:09 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 10:52:48 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 10:52:50 INFO  HomePage:31 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (f584ca893539343aaada96e15780bd07)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-22 10:55:43 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 10:55:46 INFO  HomePage:32 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (d6d9fe9b6ce84248da3eef2102c09608)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-22 10:58:52 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 10:58:57 INFO  HomePage:32 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (28fa6c7b604442437af2ecb618eddf8c)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-22 10:59:58 INFO  HomePage:34 -Clicked on askLifestages and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[1]/div/div/div[1]/div/a/h3'
+2018-01-22 11:00:02 INFO  TestBase:24 -============Finished Question and Answers forum================
+2018-01-22 11:00:28 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 11:00:30 INFO  HomePage:32 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (d827eda48fc790954af0ca0a6016becd)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-22 11:09:33 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 11:09:40 INFO  HomePage:32 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (87e993e3ccc5f7b2d26c6aaa22599466)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-22 11:10:45 INFO  HomePage:34 -Clicked on askLifestages and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[1]/div/div/div[1]/div/a/h3'
+2018-01-22 11:10:49 INFO  TestBase:24 -============Finished Question and Answers forum================
+2018-01-22 11:12:04 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 11:12:06 INFO  HomePage:32 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (a15b61022742609bfbb6f465b0966e35)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-22 11:13:07 INFO  HomePage:34 -Clicked on askLifestages and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[1]/div/div/div[1]/div/a/h3'
+2018-01-22 11:13:08 INFO  TestBase:24 -============Finished Question and Answers forum================
+2018-01-22 11:15:40 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 11:15:43 INFO  HomePage:32 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (83ce0c09b33ab67b920743be3034142e)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-22 11:16:44 INFO  HomePage:34 -Clicked on askLifestages and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[1]/div/div/div[1]/div/a/h3'
+2018-01-22 11:16:46 INFO  HomePage:37 -Clicked on askLifestages and object is [[ChromeDriver: chrome on XP (83ce0c09b33ab67b920743be3034142e)] -> xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[1]/div/div/div[1]/div/a/h3]
+2018-01-22 11:16:46 INFO  TestBase:24 -============Finished Question and Answers forum================
+2018-01-22 11:25:08 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 11:25:13 INFO  HomePage:32 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (74cea97d584a6971577a49d48751af87)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-22 11:26:15 INFO  HomePage:34 -Clicked on askLifestages and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[1]/div/div/div[1]/div/a/h3'
+2018-01-22 11:26:17 INFO  HomePage:38 -Clicked on askLifestages and object is [[ChromeDriver: chrome on XP (74cea97d584a6971577a49d48751af87)] -> xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[1]/div/div/div[1]/div/a/h3]
+2018-01-22 11:26:17 INFO  TestBase:24 -============Finished Question and Answers forum================
+2018-01-22 11:27:21 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 11:27:24 INFO  HomePage:32 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (1c1f223b504bbce22ec383ad51fe7887)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-22 11:28:27 INFO  HomePage:34 -Clicked on askLifestages and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[1]/div/div/div[1]/div/a/h3'
+2018-01-22 11:28:29 INFO  HomePage:38 -Clicked on askLifestages and object is [[ChromeDriver: chrome on XP (1c1f223b504bbce22ec383ad51fe7887)] -> xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[1]/div/div/div[1]/div/a/h3]
+2018-01-22 11:28:29 INFO  TestBase:24 -============Finished Question and Answers forum================
+2018-01-22 11:39:29 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 11:39:32 INFO  HomePage:39 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (c558f4ab6fce3b4cd92aedfad5285d9c)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-22 11:40:33 INFO  HomePage:41 -Clicked on askLifestages and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[1]/div/div/div[1]/div/a/h3'
+2018-01-22 11:43:08 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 11:43:11 INFO  HomePage:39 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (1f84d753532b11d3826537e7b87961f7)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-22 11:46:34 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 11:46:36 INFO  HomePage:39 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (3c9522d5b12d88ebab61df875227a6fa)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-22 11:48:47 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 11:48:49 INFO  HomePage:39 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (b23d4d49c840cd7226f127e6e9aa3110)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-22 11:50:35 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 11:50:38 INFO  HomePage:39 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (30d0aa729684e7cf923105a20343467b)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-22 11:51:39 INFO  HomePage:46 -Clicked on askLifestages and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div'
+2018-01-22 11:52:49 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 11:52:51 INFO  HomePage:39 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (8be858bfb191c24189cd0361b7b15df0)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-22 11:53:53 INFO  HomePage:46 -Clicked on askLifestages and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div'
+2018-01-22 11:54:50 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 11:54:52 INFO  HomePage:39 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (c8f2b1d89b600b466d555e3b24f03491)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-22 11:56:25 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 11:56:28 INFO  HomePage:39 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (f6d12b8a2e49204ba1e8e70d2604f573)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-22 11:57:29 INFO  HomePage:46 -Clicked on askLifestages and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div'
+2018-01-22 11:57:29 INFO  HomePage:49 -Clicked on askLifestages and object is [[ChromeDriver: chrome on XP (f6d12b8a2e49204ba1e8e70d2604f573)] -> xpath: //*[@id='app']/div/div/main/div/div[1]/div[3]/form/div[1]/div/div/div/div[2]/div/textarea]
+2018-01-22 11:57:50 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 11:57:52 INFO  HomePage:39 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (8d2aad4772b419ce95a19e206cd04ec5)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-22 11:58:29 INFO  HomePage:52 -Clicked on askLifestages and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div'
+2018-01-22 11:58:53 INFO  HomePage:46 -Clicked on askLifestages and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div'
+2018-01-22 11:59:29 INFO  HomePage:54 -Clicked on askLifestages and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/a'
+2018-01-22 11:59:29 INFO  TestBase:24 -============Finished Question and Answers forum================
+2018-01-22 12:03:10 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 12:03:13 INFO  HomePage:39 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (e6b6062c4a77f05a72d3c59e6b73b3c3)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-22 12:20:53 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 12:20:54 INFO  HomePage:39 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (22dd4bdb6efa0dd80984532e4f80134c)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-22 12:21:57 INFO  HomePage:46 -Clicked on askLifestages and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div'
+2018-01-22 12:24:29 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 12:24:31 INFO  HomePage:39 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (a581f088fec0200027ba348b9d6c5fbf)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-22 12:25:32 INFO  HomePage:46 -Clicked on askLifestages and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div'
+2018-01-22 12:25:32 INFO  HomePage:49 -Clicked on askLifestages and object is [[ChromeDriver: chrome on XP (a581f088fec0200027ba348b9d6c5fbf)] -> xpath: //*[@id='app']/div/div/main/div/div[1]/div[3]/form/div[1]/div/div/div/div[2]/div/textarea]
+2018-01-22 12:26:32 INFO  HomePage:52 -Clicked on askLifestages and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div'
+2018-01-22 12:27:32 INFO  HomePage:54 -Clicked on askLifestages and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div/a'
+2018-01-22 12:27:32 INFO  TestBase:24 -============Finished Question and Answers forum================
+2018-01-22 12:31:39 INFO  TestBase:21 -============Starting Question and Answer forum================
+2018-01-22 12:31:40 INFO  HomePage:41 -Clicked on askMoms and object is [[ChromeDriver: chrome on XP (f8678b8a3c3156a83fe348f9b8009268)] -> xpath: //*[@id='app']/div/div/header/div[1]/section[3]/a[1]]
+2018-01-22 12:32:42 INFO  HomePage:48 -Clicked on askLifestages and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='app']/div/div/main/div/div/div[2]/div/div[1]/div[2]/div[1]/div[2]/div[2]/div[2]/div'
+2018-01-22 12:32:42 INFO  HomePage:51 -Clicked on askLifestages and object is [[ChromeDriver: chrome on XP (f8678b8a3c3156a83fe348f9b8009268)] -> xpath: //*[@id='app']/div/div/main/div/div[1]/div[3]/form/div[1]/div/div/div/div[2]/div/textarea]
+2018-01-22 18:44:47 INFO  TC_002QuickTips:26 -===================Quick Tips Test Started====================
+2018-01-22 18:45:02 INFO  HomePageCards:42 -Clicked on tipsMenu and object is [[ChromeDriver: chrome on XP (671f4215784c220d34faa7cfb0e79c80)] -> xpath: //*[@id="basic-tab-bar"]/a[1]]
+2018-01-22 18:45:03 INFO  HomePageCards:45 -Clicked on loadMoreCards and object is [[ChromeDriver: chrome on XP (671f4215784c220d34faa7cfb0e79c80)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[2]/div/div/div/button]
+2018-01-22 18:45:04 INFO  HomePageCards:48 -Clicked on tipsRandomCards and object is [[ChromeDriver: chrome on XP (671f4215784c220d34faa7cfb0e79c80)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[9]/div/div[1]]
+2018-01-22 18:45:06 INFO  HomePageCards:52 -Clicked on 1 tipsRightArrow and object is [[ChromeDriver: chrome on XP (671f4215784c220d34faa7cfb0e79c80)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[2]]
+2018-01-22 18:45:07 INFO  HomePageCards:54 -Clicked on 1 tipsZoomIn and object is [[ChromeDriver: chrome on XP (671f4215784c220d34faa7cfb0e79c80)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[1]/button]
+2018-01-22 18:45:08 INFO  HomePageCards:56 -Clicked on 1 tipsZoomOut and object is [[ChromeDriver: chrome on XP (671f4215784c220d34faa7cfb0e79c80)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[2]/button]
+2018-01-22 18:45:08 INFO  HomePageCards:52 -Clicked on 2 tipsRightArrow and object is [[ChromeDriver: chrome on XP (671f4215784c220d34faa7cfb0e79c80)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[2]]
+2018-01-22 18:45:09 INFO  HomePageCards:54 -Clicked on 2 tipsZoomIn and object is [[ChromeDriver: chrome on XP (671f4215784c220d34faa7cfb0e79c80)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[1]/button]
+2018-01-22 18:45:09 INFO  HomePageCards:56 -Clicked on 2 tipsZoomOut and object is [[ChromeDriver: chrome on XP (671f4215784c220d34faa7cfb0e79c80)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[2]/button]
+2018-01-22 18:45:10 INFO  HomePageCards:52 -Clicked on 3 tipsRightArrow and object is [[ChromeDriver: chrome on XP (671f4215784c220d34faa7cfb0e79c80)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[2]]
+2018-01-22 18:45:10 INFO  HomePageCards:54 -Clicked on 3 tipsZoomIn and object is [[ChromeDriver: chrome on XP (671f4215784c220d34faa7cfb0e79c80)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[1]/button]
+2018-01-22 18:45:11 INFO  HomePageCards:56 -Clicked on 3 tipsZoomOut and object is [[ChromeDriver: chrome on XP (671f4215784c220d34faa7cfb0e79c80)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[2]/button]
+2018-01-22 18:45:11 INFO  HomePageCards:52 -Clicked on 4 tipsRightArrow and object is [[ChromeDriver: chrome on XP (671f4215784c220d34faa7cfb0e79c80)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[2]]
+2018-01-22 18:45:12 INFO  HomePageCards:54 -Clicked on 4 tipsZoomIn and object is [[ChromeDriver: chrome on XP (671f4215784c220d34faa7cfb0e79c80)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[1]/button]
+2018-01-22 18:45:12 INFO  HomePageCards:56 -Clicked on 4 tipsZoomOut and object is [[ChromeDriver: chrome on XP (671f4215784c220d34faa7cfb0e79c80)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[2]/button]
+2018-01-22 18:45:13 INFO  HomePageCards:61 -Clicked on 0 tipsLeftArrow and object is [[ChromeDriver: chrome on XP (671f4215784c220d34faa7cfb0e79c80)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[1]]
+2018-01-22 18:45:14 INFO  HomePageCards:61 -Clicked on 1 tipsLeftArrow and object is [[ChromeDriver: chrome on XP (671f4215784c220d34faa7cfb0e79c80)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[1]]
+2018-01-22 18:45:14 INFO  HomePageCards:61 -Clicked on 2 tipsLeftArrow and object is [[ChromeDriver: chrome on XP (671f4215784c220d34faa7cfb0e79c80)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[1]]
+2018-01-22 18:45:14 INFO  TC_002QuickTips:29 -===================Quick Tips Test End====================
+2018-01-22 19:00:41 INFO  TC_003Videos:28 -=====================Videos Test Started==================
+2018-01-22 19:00:53 INFO  HomePageVideos:39 -Clicked on videoMenu and object is [[ChromeDriver: chrome on XP (564a19e55fba9c83235a326ca4603fd1)] -> xpath: //*[@id="basic-tab-bar"]/a[2]]
+2018-01-22 19:00:54 INFO  HomePageVideos:42 -Clicked on loadMoreVideos and object is [[ChromeDriver: chrome on XP (564a19e55fba9c83235a326ca4603fd1)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[2]/div/div/div/button]
+2018-01-22 19:00:55 INFO  HomePageVideos:45 -Clicked on RandomVideo and object is [[ChromeDriver: chrome on XP (564a19e55fba9c83235a326ca4603fd1)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[10]/div/div]
+2018-01-22 19:04:05 INFO  TC_003Videos:28 -=====================Videos Test Started==================
+2018-01-22 19:04:13 INFO  HomePageVideos:39 -Clicked on videoMenu and object is [[ChromeDriver: chrome on XP (6c8e8dc272995ba624380ef3fb78e77e)] -> xpath: //*[@id="basic-tab-bar"]/a[2]]
+2018-01-22 19:04:14 INFO  HomePageVideos:42 -Clicked on loadMoreVideos and object is [[ChromeDriver: chrome on XP (6c8e8dc272995ba624380ef3fb78e77e)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[2]/div/div/div/button]
+2018-01-22 19:04:16 INFO  HomePageVideos:45 -Clicked on RandomVideo and object is [[ChromeDriver: chrome on XP (6c8e8dc272995ba624380ef3fb78e77e)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[10]/div/div]
+2018-01-29 11:57:37 INFO  TC_002QuickTips:26 -===================Quick Tips Test Started====================
+2018-01-29 11:57:48 INFO  HomePageCards:41 -Clicked on tipsMenu and object is [[ChromeDriver: chrome on XP (5af51b04a3c1895c0ea53633020b80e6)] -> xpath: //*[@id="basic-tab-bar"]/a[1]]
+2018-01-29 11:57:49 INFO  HomePageCards:44 -Clicked on loadMoreCards and object is [[ChromeDriver: chrome on XP (5af51b04a3c1895c0ea53633020b80e6)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[2]/div/div/div/button]
+2018-01-29 11:57:50 INFO  HomePageCards:47 -Clicked on tipsRandomCards and object is [[ChromeDriver: chrome on XP (5af51b04a3c1895c0ea53633020b80e6)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[9]/div/div[1]]
+2018-01-29 11:57:51 INFO  HomePageCards:51 -Clicked on 1 tipsRightArrow and object is [[ChromeDriver: chrome on XP (5af51b04a3c1895c0ea53633020b80e6)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[2]]
+2018-01-29 11:57:51 INFO  HomePageCards:53 -Clicked on 1 tipsZoomIn and object is [[ChromeDriver: chrome on XP (5af51b04a3c1895c0ea53633020b80e6)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[1]/button]
+2018-01-29 11:57:51 INFO  HomePageCards:55 -Clicked on 1 tipsZoomOut and object is [[ChromeDriver: chrome on XP (5af51b04a3c1895c0ea53633020b80e6)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[2]/button]
+2018-01-29 11:57:52 INFO  HomePageCards:51 -Clicked on 2 tipsRightArrow and object is [[ChromeDriver: chrome on XP (5af51b04a3c1895c0ea53633020b80e6)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[2]]
+2018-01-29 11:57:52 INFO  HomePageCards:53 -Clicked on 2 tipsZoomIn and object is [[ChromeDriver: chrome on XP (5af51b04a3c1895c0ea53633020b80e6)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[1]/button]
+2018-01-29 11:57:52 INFO  HomePageCards:55 -Clicked on 2 tipsZoomOut and object is [[ChromeDriver: chrome on XP (5af51b04a3c1895c0ea53633020b80e6)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[2]/button]
+2018-01-29 11:57:52 INFO  HomePageCards:51 -Clicked on 3 tipsRightArrow and object is [[ChromeDriver: chrome on XP (5af51b04a3c1895c0ea53633020b80e6)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[2]]
+2018-01-29 11:57:52 INFO  HomePageCards:53 -Clicked on 3 tipsZoomIn and object is [[ChromeDriver: chrome on XP (5af51b04a3c1895c0ea53633020b80e6)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[1]/button]
+2018-01-29 11:57:52 INFO  HomePageCards:55 -Clicked on 3 tipsZoomOut and object is [[ChromeDriver: chrome on XP (5af51b04a3c1895c0ea53633020b80e6)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[2]/button]
+2018-01-29 11:57:52 INFO  HomePageCards:51 -Clicked on 4 tipsRightArrow and object is [[ChromeDriver: chrome on XP (5af51b04a3c1895c0ea53633020b80e6)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[2]]
+2018-01-29 11:57:52 INFO  HomePageCards:53 -Clicked on 4 tipsZoomIn and object is [[ChromeDriver: chrome on XP (5af51b04a3c1895c0ea53633020b80e6)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[1]/button]
+2018-01-29 11:57:52 INFO  HomePageCards:55 -Clicked on 4 tipsZoomOut and object is [[ChromeDriver: chrome on XP (5af51b04a3c1895c0ea53633020b80e6)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[2]/button]
+2018-01-29 11:57:52 INFO  HomePageCards:60 -Clicked on 0 tipsLeftArrow and object is [[ChromeDriver: chrome on XP (5af51b04a3c1895c0ea53633020b80e6)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[1]]
+2018-01-29 11:57:52 INFO  HomePageCards:60 -Clicked on 1 tipsLeftArrow and object is [[ChromeDriver: chrome on XP (5af51b04a3c1895c0ea53633020b80e6)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[1]]
+2018-01-29 11:57:52 INFO  HomePageCards:60 -Clicked on 2 tipsLeftArrow and object is [[ChromeDriver: chrome on XP (5af51b04a3c1895c0ea53633020b80e6)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[1]]
+2018-01-29 11:57:52 INFO  TC_002QuickTips:29 -===================Quick Tips Test End====================
+2018-01-29 11:59:37 INFO  TC_002QuickTips:26 -===================Quick Tips Test Started====================
+2018-01-29 11:59:53 INFO  HomePageCards:41 -Clicked on tipsMenu and object is [[ChromeDriver: chrome on XP (76f0b32029a30769a0791e93f1ac8569)] -> xpath: //*[@id="basic-tab-bar"]/a[1]]
+2018-01-29 11:59:53 INFO  HomePageCards:44 -Clicked on loadMoreCards and object is [[ChromeDriver: chrome on XP (76f0b32029a30769a0791e93f1ac8569)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[2]/div/div/div/button]
+2018-01-29 11:59:53 INFO  HomePageCards:47 -Clicked on tipsRandomCards and object is [[ChromeDriver: chrome on XP (76f0b32029a30769a0791e93f1ac8569)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[9]/div/div[1]]
+2018-01-29 11:59:53 INFO  HomePageCards:51 -Clicked on 1 tipsRightArrow and object is [[ChromeDriver: chrome on XP (76f0b32029a30769a0791e93f1ac8569)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[2]]
+2018-01-29 11:59:54 INFO  HomePageCards:53 -Clicked on 1 tipsZoomIn and object is [[ChromeDriver: chrome on XP (76f0b32029a30769a0791e93f1ac8569)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[1]/button]
+2018-01-29 11:59:54 INFO  HomePageCards:55 -Clicked on 1 tipsZoomOut and object is [[ChromeDriver: chrome on XP (76f0b32029a30769a0791e93f1ac8569)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[2]/button]
+2018-01-29 11:59:54 INFO  HomePageCards:51 -Clicked on 2 tipsRightArrow and object is [[ChromeDriver: chrome on XP (76f0b32029a30769a0791e93f1ac8569)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[2]]
+2018-01-29 11:59:54 INFO  HomePageCards:53 -Clicked on 2 tipsZoomIn and object is [[ChromeDriver: chrome on XP (76f0b32029a30769a0791e93f1ac8569)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[1]/button]
+2018-01-29 11:59:54 INFO  HomePageCards:55 -Clicked on 2 tipsZoomOut and object is [[ChromeDriver: chrome on XP (76f0b32029a30769a0791e93f1ac8569)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[2]/button]
+2018-01-29 11:59:54 INFO  HomePageCards:51 -Clicked on 3 tipsRightArrow and object is [[ChromeDriver: chrome on XP (76f0b32029a30769a0791e93f1ac8569)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[2]]
+2018-01-29 11:59:54 INFO  HomePageCards:53 -Clicked on 3 tipsZoomIn and object is [[ChromeDriver: chrome on XP (76f0b32029a30769a0791e93f1ac8569)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[1]/button]
+2018-01-29 11:59:54 INFO  HomePageCards:55 -Clicked on 3 tipsZoomOut and object is [[ChromeDriver: chrome on XP (76f0b32029a30769a0791e93f1ac8569)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[2]/button]
+2018-01-29 11:59:54 INFO  HomePageCards:51 -Clicked on 4 tipsRightArrow and object is [[ChromeDriver: chrome on XP (76f0b32029a30769a0791e93f1ac8569)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[2]]
+2018-01-29 11:59:54 INFO  HomePageCards:53 -Clicked on 4 tipsZoomIn and object is [[ChromeDriver: chrome on XP (76f0b32029a30769a0791e93f1ac8569)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[1]/button]
+2018-01-29 11:59:54 INFO  HomePageCards:55 -Clicked on 4 tipsZoomOut and object is [[ChromeDriver: chrome on XP (76f0b32029a30769a0791e93f1ac8569)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[2]/button]
+2018-01-29 11:59:54 INFO  HomePageCards:60 -Clicked on 0 tipsLeftArrow and object is [[ChromeDriver: chrome on XP (76f0b32029a30769a0791e93f1ac8569)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[1]]
+2018-01-29 11:59:54 INFO  HomePageCards:60 -Clicked on 1 tipsLeftArrow and object is [[ChromeDriver: chrome on XP (76f0b32029a30769a0791e93f1ac8569)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[1]]
+2018-01-29 11:59:55 INFO  HomePageCards:60 -Clicked on 2 tipsLeftArrow and object is [[ChromeDriver: chrome on XP (76f0b32029a30769a0791e93f1ac8569)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[1]]
+2018-01-29 11:59:55 INFO  TC_002QuickTips:29 -===================Quick Tips Test End====================
+2018-01-29 12:02:11 INFO  TC_002QuickTips:26 -===================Quick Tips Test Started====================
+2018-01-29 12:02:24 INFO  HomePageCards:41 -Clicked on tipsMenu and object is [[ChromeDriver: chrome on XP (60a5aefc98b0837b5b98f47e9c928603)] -> xpath: //*[@id="basic-tab-bar"]/a[1]]
+2018-01-29 12:02:24 INFO  HomePageCards:44 -Clicked on loadMoreCards and object is [[ChromeDriver: chrome on XP (60a5aefc98b0837b5b98f47e9c928603)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[2]/div/div/div/button]
+2018-01-29 12:02:26 INFO  HomePageCards:49 -Clicked on tipsRandomCards and object is [[ChromeDriver: chrome on XP (60a5aefc98b0837b5b98f47e9c928603)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[9]/div/div[1]]
+2018-01-29 12:02:27 INFO  HomePageCards:53 -Clicked on 1 tipsRightArrow and object is [[ChromeDriver: chrome on XP (60a5aefc98b0837b5b98f47e9c928603)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[2]]
+2018-01-29 12:02:27 INFO  HomePageCards:55 -Clicked on 1 tipsZoomIn and object is [[ChromeDriver: chrome on XP (60a5aefc98b0837b5b98f47e9c928603)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[1]/button]
+2018-01-29 12:02:27 INFO  HomePageCards:57 -Clicked on 1 tipsZoomOut and object is [[ChromeDriver: chrome on XP (60a5aefc98b0837b5b98f47e9c928603)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[2]/button]
+2018-01-29 12:02:27 INFO  HomePageCards:53 -Clicked on 2 tipsRightArrow and object is [[ChromeDriver: chrome on XP (60a5aefc98b0837b5b98f47e9c928603)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[2]]
+2018-01-29 12:02:27 INFO  HomePageCards:55 -Clicked on 2 tipsZoomIn and object is [[ChromeDriver: chrome on XP (60a5aefc98b0837b5b98f47e9c928603)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[1]/button]
+2018-01-29 12:02:27 INFO  HomePageCards:57 -Clicked on 2 tipsZoomOut and object is [[ChromeDriver: chrome on XP (60a5aefc98b0837b5b98f47e9c928603)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[2]/button]
+2018-01-29 12:02:27 INFO  HomePageCards:53 -Clicked on 3 tipsRightArrow and object is [[ChromeDriver: chrome on XP (60a5aefc98b0837b5b98f47e9c928603)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[2]]
+2018-01-29 12:02:27 INFO  HomePageCards:55 -Clicked on 3 tipsZoomIn and object is [[ChromeDriver: chrome on XP (60a5aefc98b0837b5b98f47e9c928603)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[1]/button]
+2018-01-29 12:02:27 INFO  HomePageCards:57 -Clicked on 3 tipsZoomOut and object is [[ChromeDriver: chrome on XP (60a5aefc98b0837b5b98f47e9c928603)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[2]/button]
+2018-01-29 12:02:27 INFO  HomePageCards:53 -Clicked on 4 tipsRightArrow and object is [[ChromeDriver: chrome on XP (60a5aefc98b0837b5b98f47e9c928603)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[2]]
+2018-01-29 12:02:27 INFO  HomePageCards:55 -Clicked on 4 tipsZoomIn and object is [[ChromeDriver: chrome on XP (60a5aefc98b0837b5b98f47e9c928603)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[1]/button]
+2018-01-29 12:02:27 INFO  HomePageCards:57 -Clicked on 4 tipsZoomOut and object is [[ChromeDriver: chrome on XP (60a5aefc98b0837b5b98f47e9c928603)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[2]/button]
+2018-01-29 12:02:27 INFO  HomePageCards:62 -Clicked on 0 tipsLeftArrow and object is [[ChromeDriver: chrome on XP (60a5aefc98b0837b5b98f47e9c928603)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[1]]
+2018-01-29 12:02:27 INFO  HomePageCards:62 -Clicked on 1 tipsLeftArrow and object is [[ChromeDriver: chrome on XP (60a5aefc98b0837b5b98f47e9c928603)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[1]]
+2018-01-29 12:02:27 INFO  HomePageCards:62 -Clicked on 2 tipsLeftArrow and object is [[ChromeDriver: chrome on XP (60a5aefc98b0837b5b98f47e9c928603)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[1]]
+2018-01-29 12:02:27 INFO  TC_002QuickTips:29 -===================Quick Tips Test End====================
+2018-01-29 12:03:49 INFO  TC_002QuickTips:26 -===================Quick Tips Test Started====================
+2018-01-29 12:04:02 INFO  HomePageCards:41 -Clicked on tipsMenu and object is [[ChromeDriver: chrome on XP (a3419dfb33c4db4f049b7e78d1a6be95)] -> xpath: //*[@id="basic-tab-bar"]/a[1]]
+2018-01-29 12:04:02 INFO  HomePageCards:44 -Clicked on loadMoreCards and object is [[ChromeDriver: chrome on XP (a3419dfb33c4db4f049b7e78d1a6be95)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[2]/div/div/div/button]
+2018-01-29 12:04:04 INFO  HomePageCards:49 -Clicked on tipsRandomCards and object is [[ChromeDriver: chrome on XP (a3419dfb33c4db4f049b7e78d1a6be95)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[9]/div/div[1]]
+2018-01-29 12:04:06 INFO  HomePageCards:54 -Clicked on 1 tipsRightArrow and object is [[ChromeDriver: chrome on XP (a3419dfb33c4db4f049b7e78d1a6be95)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[2]]
+2018-01-29 12:04:06 INFO  HomePageCards:56 -Clicked on 1 tipsZoomIn and object is [[ChromeDriver: chrome on XP (a3419dfb33c4db4f049b7e78d1a6be95)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[1]/button]
+2018-01-29 12:04:06 INFO  HomePageCards:58 -Clicked on 1 tipsZoomOut and object is [[ChromeDriver: chrome on XP (a3419dfb33c4db4f049b7e78d1a6be95)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[2]/button]
+2018-01-29 12:04:08 INFO  HomePageCards:54 -Clicked on 2 tipsRightArrow and object is [[ChromeDriver: chrome on XP (a3419dfb33c4db4f049b7e78d1a6be95)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[2]]
+2018-01-29 12:04:08 INFO  HomePageCards:56 -Clicked on 2 tipsZoomIn and object is [[ChromeDriver: chrome on XP (a3419dfb33c4db4f049b7e78d1a6be95)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[1]/button]
+2018-01-29 12:04:08 INFO  HomePageCards:58 -Clicked on 2 tipsZoomOut and object is [[ChromeDriver: chrome on XP (a3419dfb33c4db4f049b7e78d1a6be95)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[2]/button]
+2018-01-29 12:04:10 INFO  HomePageCards:54 -Clicked on 3 tipsRightArrow and object is [[ChromeDriver: chrome on XP (a3419dfb33c4db4f049b7e78d1a6be95)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[2]]
+2018-01-29 12:04:10 INFO  HomePageCards:56 -Clicked on 3 tipsZoomIn and object is [[ChromeDriver: chrome on XP (a3419dfb33c4db4f049b7e78d1a6be95)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[1]/button]
+2018-01-29 12:04:11 INFO  HomePageCards:58 -Clicked on 3 tipsZoomOut and object is [[ChromeDriver: chrome on XP (a3419dfb33c4db4f049b7e78d1a6be95)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[2]/button]
+2018-01-29 12:04:13 INFO  HomePageCards:54 -Clicked on 4 tipsRightArrow and object is [[ChromeDriver: chrome on XP (a3419dfb33c4db4f049b7e78d1a6be95)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[2]]
+2018-01-29 12:04:13 INFO  HomePageCards:56 -Clicked on 4 tipsZoomIn and object is [[ChromeDriver: chrome on XP (a3419dfb33c4db4f049b7e78d1a6be95)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[1]/button]
+2018-01-29 12:04:13 INFO  HomePageCards:58 -Clicked on 4 tipsZoomOut and object is [[ChromeDriver: chrome on XP (a3419dfb33c4db4f049b7e78d1a6be95)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/div[2]/ul[2]/li[2]/button]
+2018-01-29 12:04:15 INFO  HomePageCards:64 -Clicked on 0 tipsLeftArrow and object is [[ChromeDriver: chrome on XP (a3419dfb33c4db4f049b7e78d1a6be95)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[1]]
+2018-01-29 12:04:17 INFO  HomePageCards:64 -Clicked on 1 tipsLeftArrow and object is [[ChromeDriver: chrome on XP (a3419dfb33c4db4f049b7e78d1a6be95)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[1]]
+2018-01-29 12:04:19 INFO  HomePageCards:64 -Clicked on 2 tipsLeftArrow and object is [[ChromeDriver: chrome on XP (a3419dfb33c4db4f049b7e78d1a6be95)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[17]/div/button[1]]
+2018-01-29 12:04:19 INFO  TC_002QuickTips:29 -===================Quick Tips Test End====================
+2018-01-29 12:05:10 INFO  TC_003Videos:28 -=====================Videos Test Started==================
+2018-01-29 12:05:13 INFO  HomePageVideos:39 -Clicked on videoMenu and object is [[ChromeDriver: chrome on XP (beb614c8dc48475b2caaca19527ea698)] -> xpath: //*[@id="basic-tab-bar"]/a[2]]
+2018-01-29 12:05:13 INFO  HomePageVideos:42 -Clicked on loadMoreVideos and object is [[ChromeDriver: chrome on XP (beb614c8dc48475b2caaca19527ea698)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[2]/div/div/div/button]
+2018-01-29 12:05:13 INFO  HomePageVideos:45 -Clicked on RandomVideo and object is [[ChromeDriver: chrome on XP (beb614c8dc48475b2caaca19527ea698)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[10]/div/div]
+2018-01-29 12:06:33 INFO  TC_003Videos:28 -=====================Videos Test Started==================
+2018-01-29 12:06:35 INFO  HomePageVideos:39 -Clicked on videoMenu and object is [[ChromeDriver: chrome on XP (ac59a288660c84038b50b1029f740098)] -> xpath: //*[@id="basic-tab-bar"]/a[2]]
+2018-01-29 12:06:35 INFO  HomePageVideos:42 -Clicked on loadMoreVideos and object is [[ChromeDriver: chrome on XP (ac59a288660c84038b50b1029f740098)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[2]/div/div/div/button]
+2018-01-29 12:06:36 INFO  HomePageVideos:45 -Clicked on RandomVideo and object is [[ChromeDriver: chrome on XP (ac59a288660c84038b50b1029f740098)] -> xpath: //*[@id="app"]/div/div/main/div/div/div/div[1]/div[10]/div/div]
